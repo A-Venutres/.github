@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-a--ventures.global-c5482a?style=for-the-badge)](https://a-ventures.global)
 &nbsp;
-[![PRDIS](https://img.shields.io/badge/Open_Metric-PRDIS_v1.0-14110d?style=for-the-badge)](https://github.com/a-ventures/prdis)
+[![PRDIS](https://img.shields.io/badge/Open_Metric-PRDIS_v1.0-14110d?style=for-the-badge)](https://github.com/A-Ventures-Global/prdis)
 
 </div>
 
@@ -24,7 +24,7 @@ We open-source the **interfaces, specs, and conventions** of this work — the m
 
 | Project | What it is |
 | --- | --- |
-| **[PRDIS](https://github.com/a-ventures/prdis)** | *Profit Routed per Dollar of Inference Spend* — an open metric for measuring the economic efficiency of AI inference in commerce. One number, comparable across models and time. [Try the calculator →](https://a-ventures.github.io/prdis/) |
+| **[PRDIS](https://github.com/A-Ventures-Global/prdis)** | *Profit Routed per Dollar of Inference Spend* — an open metric for measuring the economic efficiency of AI inference in commerce. One number, comparable across models and time. [Try the calculator →](https://a-ventures-global.github.io/prdis/) |
 
 *More open tools and standards are on the way — agentic-commerce infrastructure, marketplace tooling, and the metrics that make AI-driven commerce legible.*
 
@@ -41,7 +41,7 @@ We open-source the **interfaces, specs, and conventions** of this work — the m
 
 [![Website](https://img.shields.io/badge/a--ventures.global-Visit-c5482a?style=flat-square)](https://a-ventures.global)
 &nbsp;
-[![PRDIS Calculator](https://img.shields.io/badge/PRDIS-Calculator-2f6b3f?style=flat-square)](https://a-ventures.github.io/prdis/)
+[![PRDIS Calculator](https://img.shields.io/badge/PRDIS-Calculator-2f6b3f?style=flat-square)](https://a-ventures-global.github.io/prdis/)
 
 *Based in Bend, Oregon · Building in the open*
 
